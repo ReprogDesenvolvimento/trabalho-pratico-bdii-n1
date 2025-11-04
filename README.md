@@ -11,9 +11,13 @@ O objetivo deste projeto é aplicar conceitos de SQL avançado em um banco de da
 ## 👥 Grupo 
 
 Amanda de Lira Silva
+
 Ana Laís Macêdo Fonte
+
 Rozane Raquel da Silva Gonçalves
+
 Matheus Soares do Nascimento
+
 ---
 
 ## 📁 Conteúdo do Repositório
@@ -21,6 +25,7 @@ Matheus Soares do Nascimento
 Este repositório está organizado da seguinte forma:
 
 * **`/` (Tabelas raiz)**
+  
       atividade_bdii_olist_orders_dataset.sql
       atividade_bdii_olist_geolocation_dataset.sql
       atividade_bdii_routines.sql
